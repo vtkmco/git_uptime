@@ -23,7 +23,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: @JArvis Uptime
+    - title: JArvis_Uptime
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
