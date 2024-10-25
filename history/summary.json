@@ -4,19 +4,19 @@
     "url": "https://auth.vtk2m.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/auth.vtk2m.xyz.ico",
     "slug": "authentik",
-    "status": "down",
-    "uptime": "29.35%",
-    "uptimeDay": "29.35%",
-    "uptimeWeek": "29.35%",
-    "uptimeMonth": "29.35%",
-    "uptimeYear": "29.35%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "status": "up",
+    "uptime": "27.76%",
+    "uptimeDay": "27.76%",
+    "uptimeWeek": "27.76%",
+    "uptimeMonth": "27.76%",
+    "uptimeYear": "27.76%",
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-10-25": 75
+      "2024-10-25": 82
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://vw.vtk2m.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/vw.vtk2m.xyz.ico",
     "slug": "vault-warden",
-    "status": "down",
-    "uptime": "29.31%",
-    "uptimeDay": "29.31%",
-    "uptimeWeek": "29.31%",
-    "uptimeMonth": "29.31%",
-    "uptimeYear": "29.31%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "27.71%",
+    "uptimeDay": "27.71%",
+    "uptimeWeek": "27.71%",
+    "uptimeMonth": "27.71%",
+    "uptimeYear": "27.71%",
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-10-25": 75
+      "2024-10-25": 82
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://nextcloud.vtk2m.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.vtk2m.xyz.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "29.30%",
-    "uptimeDay": "29.30%",
-    "uptimeWeek": "29.30%",
-    "uptimeMonth": "29.30%",
-    "uptimeYear": "29.30%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "status": "up",
+    "uptime": "27.65%",
+    "uptimeDay": "27.65%",
+    "uptimeWeek": "27.65%",
+    "uptimeMonth": "27.65%",
+    "uptimeYear": "27.65%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-10-25": 76
+      "2024-10-25": 83
     }
   }
 ]
