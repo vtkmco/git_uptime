@@ -9,8 +9,8 @@ sites:
     url: https://vw.vtk2m.xyz
   - name: NextCloud
     url: https://nextcloud.vtk2m.xyz
-  - name: CNN
-    url: https://cnn.com
+  - name: Apple
+    url: https://www.apple.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +23,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: @JArvis Uptime
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
