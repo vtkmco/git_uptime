@@ -9,8 +9,8 @@ sites:
     url: https://vw.vtk2m.xyz
   - name: NextCloud
     url: https://nextcloud.vtk2m.xyz
-  - name: Google
-    url: https://google.com
+  - name: CNN
+    url: https://cnn.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
